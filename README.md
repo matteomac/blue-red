@@ -1,2 +1,2 @@
 # blue-red
-another tutorial app
+Simple change Color App for Tutorial
